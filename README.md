@@ -1,1 +1,2 @@
 # Airline_Analysis
+The notebook performs a comprehensive time series analysis of air traffic data by first cleaning and preparing the dataset, which includes removing unnecessary columns, and performing the data fill using approriate fill technique. An exploratory data analysis (EDA) is conducted to assess the dataset's structure and visualize trends over time for passengers, flights, and revenue per mile. The analysis moves forward with fitting time series models to predict future trends based on the processed data.
